@@ -350,7 +350,15 @@ body{
     align-items: center;
     text-align: center;
     justify-content: center;
-    background-color: black;
+    
+
+}
+.bg{
+    background-image: url("https://th.bing.com/th/id/OIP.24I88U5S2ityzKMPZ2ATSwHaE0?rs=1&pid=ImgDetMain");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 
 }
 body h2, h1, h3{
